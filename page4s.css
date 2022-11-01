@@ -1,0 +1,153 @@
+.logo img{
+    position:relative;
+    /*top:100px;*/
+    left:300px;  
+    height:40px;
+
+}
+.anu{
+    position:relative;
+    top:-30px;
+    left:600px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 600px;
+}
+.anu a{
+    text-decoration: none;
+}
+.anu a:hover{
+    color:#c8c10d;
+}
+body{
+    background-color: rgb(234, 234, 234);
+ }
+ .Product{
+    position:relative;
+    left:0px;
+    top:50px;
+    font-size: larger;
+}
+.hyper1 .product a{
+    color:rgb(234, 234, 234);
+}
+.hyper2 .single1 a{
+    color:rgb(234, 234, 234);
+}
+.product a:hover{
+     color:#c8c10d;
+     margin-left: -10px; 
+}
+.single1 a:hover{
+    color:#c8c10d;
+    margin-left: -20px; 
+}
+
+
+
+
+
+
+
+.single{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+    background-color:#c8c10d ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80px;
+    margin:-10px;
+    color:white ;
+}
+.single-img{
+    margin-top: 70px;
+}
+.single-summer{
+    color: #cb3362;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+}
+.single-admin{
+    color: gray;
+    font-size:small;
+    font-family: sans-serif;
+}
+.single-web{
+    font-size:16px ;
+    font-weight: lighter;
+}
+.single-web,.single-web a{
+color:grey ;
+}
+
+.recent{
+    margin-top: 50px;
+    color:#cb3362;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+.recent-img{
+    text-align: center;
+}
+.recent-diet{
+    color:#cb3362;
+    font-weight:lighter;
+    font-size: x-large;
+    text-align: center;
+}
+.recent-admin{
+    text-align: center;
+    font-size: small;
+    color:grey ;
+}
+.recent-para{
+    text-align: center;
+    color:grey ;
+}
+.recent-read button{
+    width:150px ;
+    height: 40px;
+    margin-left: 75px;
+    background-color:#eeebec ;
+    border:solid 1px grey;
+    color:grey
+}
+.recent-read button:hover{
+    background-color: #c8c10d;
+    color:white;
+    border:solid 0px ;
+}
+.main2{
+    border:solid 0px;
+    width:300px;
+    height: 700px;
+    background-color:#eeebec;
+    margin-top: 120px;
+    margin-right:250px;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.main1{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.blog-back button{
+    width:150px ;
+    height: 40px;
+    margin-left:500px;
+    background-color:#eeebec ;
+    border:solid 1px grey;
+    color:grey;
+    font-weight: bold;
+}
+.blog-back button:hover{
+    background-color: #c8c10d;
+    color:white;
+    border:solid 0px ;
+}

@@ -1,0 +1,98 @@
+.logo img{
+    position:relative;
+    left:300px;  
+    height:40px;
+
+}
+.anu-header{
+    position:relative;
+    top:-30px;
+    left:600px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 600px;
+}
+.anu-header a{
+    text-decoration: none;
+}
+.anu-header a:hover{
+    color:#c8c10d;
+}
+body{
+    background-color: rgb(234, 234, 234);
+ }
+ .Product{
+    position:relative;
+    left:0px;
+    top:50px;
+    font-size: larger;
+}
+.hyper1 .product a{
+    color:rgb(234, 234, 234);
+}
+.hyper2 .single a{
+    color:rgb(234, 234, 234);
+}
+.product a:hover{
+     color:#c8c10d;
+     margin-left: -10px; 
+}
+.single a:hover{
+    color:#c8c10d;
+    margin-left: -20px; 
+}
+
+
+
+
+
+.header{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+    background-color:#c8c10d ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80px;
+    margin:-10px;
+    color:white ;
+}
+.classic,.berry,.blast{
+    font-family: sans-serif;
+    font-weight:bolder;
+    font-size:x-large;
+    color:#cb3362 ;
+}
+.classic2 ,.classic2 a,.berry2,.berry2 a,.blast2,.blast2 a{
+    color:gray ;
+}
+.classic2 a:hover,.berry2 a:hover,.blast2 a:hover{
+    color: #c8c10d;
+}
+.sub2,.sub4,.sub6{
+   display: flex; 
+   justify-content: space-around;
+   margin-left: -90px;
+}
+.main1,.main2,.main3 {
+    display: flex; 
+    justify-content: space-evenly; 
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.sub1,.sub3,.sub5{
+    margin-top: 70px;
+    margin-left:100px;
+}
+.anu,.anu2,.anu3{
+    text-align: center;
+    margin-top: 10px;
+    font-size: larger;
+    font-weight:lighter;
+    font-family: sans-serif;
+    color: #cb3362;
+}
+.sub6{
+    margin-top: 80px;
+}
